@@ -1,3 +1,3 @@
 # boot.py
-import os
+import storage
 storage.remount("/", readonly=False)
