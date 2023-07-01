@@ -5,39 +5,23 @@
 * text=auto
 
 # Files to be converted to native line endings on checkout.
-*.cpp text
-*.h text
+*.py text
 
 # Text files to always have CRLF (dos) line endings on checkout.
 *.bat text eol=crlf
+*.vcproj text eol=crlf
 
 # Text files to always have LF (unix) line endings on checkout.
 *.sh text eol=lf
-.magic text eof=lf
 
-###############################################################################
-# behavior for image files
-#
-# image files are treated as binary by default.
-###############################################################################
-*.jpg   binary
-*.png   binary
-*.gif   binary
+# Binary files never to be modified.
+*.mpy binary
+*.jpg binary
+*.bmp binary
+*.png binary
+*.wav binary
+*.mp3 binary
+*.bin binary
+*.zip binary
 
-###############################################################################
-# diff behavior for common document formats
-# 
-# Convert binary document formats to text before diffing them. This feature
-# is only available from the command line. Turn it on by uncommenting the 
-# entries below.
-###############################################################################
-*.doc   diff=astextplain
-*.DOC   diff=astextplain
-*.docx  diff=astextplain
-*.DOCX  diff=astextplain
-*.dot   diff=astextplain
-*.DOT   diff=astextplain
-*.pdf   diff=astextplain
-*.PDF   diff=astextplain
-*.rtf   diff=astextplain
-*.RTF   diff=astextplain
+# eof
