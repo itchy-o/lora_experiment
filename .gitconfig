@@ -1,0 +1,6 @@
+# .gitconfig
+
+[safe]
+	directory = D:/
+
+# vim: set noet ic ai:
