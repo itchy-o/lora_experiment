@@ -1,5 +1,5 @@
 # code.py
 import os
-os.chdir('CircuitPython_hinv')
-import hinv
+os.chdir('test1')
+import test1
 
