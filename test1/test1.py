@@ -3,10 +3,13 @@
 import time
 import os
 
-    out.write("help('modules') {\n")
-    help('modules')
-    out.write("# TODO how to redirect help('modules') to output filehandle?\n")
-    out.write("}\n")
+
+f1 = open("test1.log", "a")
+f1.write("start {\n")
+f1.write("}\n")
+os.sync()
+
+
 
 
 
@@ -16,7 +19,6 @@ def main():
         filename = "{}__{}.txt".format(board.board_id, AsciiHex(soc.cpu.uid))
         with open(filename, "w") as fh:
             GenerateResults(fh)
-        os.sync()
         soc.reset()
     except:
         # if flash is read-only, send results to stdout
