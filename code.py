@@ -18,11 +18,17 @@ import adafruit_rfm9x
 #import rfm9x_transmit
 
 def main():
-    print("1 is this visible?")
+    print("1 main")
     f1 = open("test1.log", "a")
+    print("2 main")
     f1.write("start {\n")
     f1.write("}\n")
+    print("3 main")
     os.sync()
-    print("the end")
+    print("4 main")
+    os.sync()
+    print("999 main")
 
+print("mark 10")
 main()
+print("mark 9999")
