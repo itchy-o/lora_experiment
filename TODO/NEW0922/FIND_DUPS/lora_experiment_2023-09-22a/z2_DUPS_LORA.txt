@@ -1,0 +1,1256 @@
+%%%% size	filename
+%%%% size	filename
+%%%% size	filename
+
+%%%% size	filename
+%%%% size	filename
+%%%% size	filename
+
+0	LORA/.gitattributes
+0	LORA/.gitconfig
+0	LORA/.gitconfig
+0	LORA/.gitignore
+0	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/.Trashes
+0	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/.fseventsd/no_log
+0	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/.metadata_never_index
+0	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/README.txt
+0	LORA/TODO/NEW0922/lib/adafruit_bus_device/__init__.py
+0	LORA/TODO/NEW0922/lib/adafruit_pn532/__init__.py
+0	LORA/TODO/NEW0922/lib/adafruit_register/__init__.py
+0	LORA/TODO/NEW0922/misc/dust/.Trashes
+0	LORA/TODO/NEW0922/misc/dust/.Trashes
+0	LORA/TODO/NEW0922/misc/dust/.Trashes
+0	LORA/TODO/NEW0922/misc/dust/.gitconfig
+0	LORA/TODO/NEW0922/misc/dust/.metadata_never_index
+0	LORA/TODO/NEW0922/misc/dust/.metadata_never_index
+0	LORA/TODO/NEW0922/misc/dust/.metadata_never_index
+0	LORA/TODO/NEW0922/misc/dust/lib/adafruit_register/__init__.py
+0	LORA/TODO/NEW0922/misc/keybow/.gitconfig
+0	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/.gitconfig
+0	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/__init__.py
+0	LORA/TODO/NEW0922/misc/keybow/_top/secrets.py
+0	LORA/TODO/NEW0922/misc/keybow/_top/secrets.py
+0	LORA/TODO/NEW0922/misc/keybow/_top/secrets.py
+0	LORA/TODO/NEW0922/misc/keybow/_top/settings.toml
+0	LORA/TODO/NEW0922/misc/keybow/_top/settings.toml
+0	LORA/TODO/NEW0922/misc/keybow/_top/settings.toml
+0	LORA/TODO/NEW0922/misc/rfid/.gitconfig
+0	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_pn532/__init__.py
+0	LORA/TODO/README.txt
+0	LORA/settings.toml
+
+28	LORA/.git/objects/8d/b65e8b88c1dab53f70d7834b9f510dc7ccfc0f
+28	LORA/.git/objects/8d/b65e8b88c1dab53f70d7834b9f510dc7ccfc0f
+28	LORA/.git/objects/8d/b65e8b88c1dab53f70d7834b9f510dc7ccfc0f
+
+31	LORA/.git/COMMIT_EDITMSG
+31	LORA/.git/COMMIT_EDITMSG
+31	LORA/.git/COMMIT_EDITMSG
+
+39	LORA/.git/objects/61/e33be18b1044fda54b77e928e112c6b0ee7ac3
+39	LORA/.git/objects/61/e33be18b1044fda54b77e928e112c6b0ee7ac3
+39	LORA/.git/objects/61/e33be18b1044fda54b77e928e112c6b0ee7ac3
+
+41	LORA/.git/refs/heads/todo
+41	LORA/.git/refs/heads/todo
+41	LORA/.git/refs/heads/todo
+41	LORA/.git/refs/remotes/origin/todo
+41	LORA/.git/refs/remotes/origin/todo
+41	LORA/.git/refs/remotes/origin/todo
+
+41	LORA/.git/ORIG_HEAD
+41	LORA/.git/ORIG_HEAD
+41	LORA/.git/ORIG_HEAD
+
+41	LORA/.git/refs/tags/first
+41	LORA/.git/refs/tags/first
+41	LORA/.git/refs/tags/first
+
+41	LORA/.git/refs/heads/main
+41	LORA/.git/refs/heads/main
+41	LORA/.git/refs/heads/main
+41	LORA/.git/refs/remotes/origin/main
+41	LORA/.git/refs/remotes/origin/main
+41	LORA/.git/refs/remotes/origin/main
+
+41	LORA/.git/refs/heads/mew1
+41	LORA/.git/refs/heads/mew1
+41	LORA/.git/refs/heads/mew1
+41	LORA/.git/refs/remotes/origin/mew1
+41	LORA/.git/refs/remotes/origin/mew1
+41	LORA/.git/refs/remotes/origin/mew1
+
+51	LORA/.git/objects/cd/54d7c89abe227c83fa7891a79e156ec3eba903
+51	LORA/.git/objects/cd/54d7c89abe227c83fa7891a79e156ec3eba903
+51	LORA/.git/objects/cd/54d7c89abe227c83fa7891a79e156ec3eba903
+
+52	LORA/.git/objects/ef/a680e58a7ce699b1cb5eb34518c55c9964fd8f
+52	LORA/.git/objects/ef/a680e58a7ce699b1cb5eb34518c55c9964fd8f
+52	LORA/.git/objects/ef/a680e58a7ce699b1cb5eb34518c55c9964fd8f
+
+54	LORA/.git/objects/info/packs
+54	LORA/.git/objects/info/packs
+54	LORA/.git/objects/info/packs
+
+55	LORA/.git/objects/62/e47c7f3928e77b0ae37111f3c9fa5a2ec8191a
+55	LORA/.git/objects/62/e47c7f3928e77b0ae37111f3c9fa5a2ec8191a
+55	LORA/.git/objects/62/e47c7f3928e77b0ae37111f3c9fa5a2ec8191a
+
+60	LORA/TODO/NEW0922/misc/build_timestamp.txt
+60	LORA/TODO/NEW0922/misc/dust/build_timestamp.txt
+
+61	LORA/TODO/NEW0922/misc/git_describe.txt
+61	LORA/TODO/NEW0922/misc/keybow/git_describe.txt
+61	LORA/TODO/NEW0922/misc/keybow/git_describe.txt
+61	LORA/TODO/NEW0922/misc/keybow/git_describe.txt
+
+62	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/INFO_UF2.TXT
+62	LORA/TODO/NEW0922/misc/keybow/_top/INFO_UF2.TXT
+
+65	LORA/.git/objects/30/9d8f5d22e416d05138f1e9da387441e57d046d
+65	LORA/.git/objects/30/9d8f5d22e416d05138f1e9da387441e57d046d
+65	LORA/.git/objects/30/9d8f5d22e416d05138f1e9da387441e57d046d
+
+66	LORA/.git/objects/4f/83a03dcdf96d54095ae717eb9d14146dc26def
+66	LORA/.git/objects/4f/83a03dcdf96d54095ae717eb9d14146dc26def
+66	LORA/.git/objects/4f/83a03dcdf96d54095ae717eb9d14146dc26def
+
+69	LORA/TODO/NEW0922/misc/keybow/.git_
+69	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/.git_
+
+72	LORA/.git/objects/0d/a7283ed745fca8f95776bbc0631b8152735779
+72	LORA/.git/objects/0d/a7283ed745fca8f95776bbc0631b8152735779
+72	LORA/.git/objects/0d/a7283ed745fca8f95776bbc0631b8152735779
+
+73	LORA/.git/description
+73	LORA/.git/description
+73	LORA/.git/description
+
+74	LORA/.git/objects/15/f925dda98b840b517264539fbb9dda96fa51b9
+74	LORA/.git/objects/15/f925dda98b840b517264539fbb9dda96fa51b9
+74	LORA/.git/objects/15/f925dda98b840b517264539fbb9dda96fa51b9
+
+76	LORA/TODO/NEW0922/misc/code.py
+76	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/code.py
+76	LORA/TODO/NEW0922/misc/keybow/code.py
+
+76	LORA/.git/objects/7b/82f8e032ed33ff4fa145ec84400547d4ef1c69
+76	LORA/.git/objects/7b/82f8e032ed33ff4fa145ec84400547d4ef1c69
+76	LORA/.git/objects/7b/82f8e032ed33ff4fa145ec84400547d4ef1c69
+
+77	LORA/.git/objects/d7/81a60667698ae99f45278d719240266a0e8943
+77	LORA/.git/objects/d7/81a60667698ae99f45278d719240266a0e8943
+77	LORA/.git/objects/d7/81a60667698ae99f45278d719240266a0e8943
+
+78	LORA/.git/objects/59/ac3f6c55cf2aa5d025ebfc0e3a53439c88548a
+78	LORA/.git/objects/59/ac3f6c55cf2aa5d025ebfc0e3a53439c88548a
+78	LORA/.git/objects/59/ac3f6c55cf2aa5d025ebfc0e3a53439c88548a
+
+78	LORA/.git/objects/26/4e1c03dcf98cac5505dfe00ba2a012aa7d186c
+78	LORA/.git/objects/26/4e1c03dcf98cac5505dfe00ba2a012aa7d186c
+78	LORA/.git/objects/26/4e1c03dcf98cac5505dfe00ba2a012aa7d186c
+
+80	LORA/.git/objects/7d/5829ae59bc7a7469d25b1d20f9253c526dd879
+80	LORA/.git/objects/7d/5829ae59bc7a7469d25b1d20f9253c526dd879
+80	LORA/.git/objects/7d/5829ae59bc7a7469d25b1d20f9253c526dd879
+
+80	LORA/TODO/NEW0922/misc/boot.py
+80	LORA/TODO/NEW0922/misc/dust/boot.py
+
+81	LORA/.git/objects/52/b2b56cf9722cf29f4779cbef7aa1d3338735ce
+81	LORA/.git/objects/52/b2b56cf9722cf29f4779cbef7aa1d3338735ce
+81	LORA/.git/objects/52/b2b56cf9722cf29f4779cbef7aa1d3338735ce
+
+82	LORA/.git/objects/12/2707a193cdefd86085d4c74ac32a2ab585412d
+82	LORA/.git/objects/12/2707a193cdefd86085d4c74ac32a2ab585412d
+82	LORA/.git/objects/12/2707a193cdefd86085d4c74ac32a2ab585412d
+
+82	LORA/.git/objects/71/c87afba9608e4807beb352e117a0a550ddd9a4
+82	LORA/.git/objects/71/c87afba9608e4807beb352e117a0a550ddd9a4
+82	LORA/.git/objects/71/c87afba9608e4807beb352e117a0a550ddd9a4
+
+84	LORA/.git/objects/4d/421b6aaa9e826623ada094f00fc687ee8c297b
+84	LORA/.git/objects/4d/421b6aaa9e826623ada094f00fc687ee8c297b
+84	LORA/.git/objects/4d/421b6aaa9e826623ada094f00fc687ee8c297b
+
+89	LORA/.git/objects/93/3522d3adad7392417c46a11f96179d1f5431be
+89	LORA/.git/objects/93/3522d3adad7392417c46a11f96179d1f5431be
+89	LORA/.git/objects/93/3522d3adad7392417c46a11f96179d1f5431be
+
+89	LORA/.git/objects/52/c8d3a3fa8fc7829a5aecbf562da30cd983f362
+89	LORA/.git/objects/52/c8d3a3fa8fc7829a5aecbf562da30cd983f362
+89	LORA/.git/objects/52/c8d3a3fa8fc7829a5aecbf562da30cd983f362
+
+90	LORA/.git/objects/c5/54cca1a914cf620cc7e2e66a01d3b6d8e13b25
+90	LORA/.git/objects/c5/54cca1a914cf620cc7e2e66a01d3b6d8e13b25
+90	LORA/.git/objects/c5/54cca1a914cf620cc7e2e66a01d3b6d8e13b25
+
+98	LORA/.git/objects/4e/a4568e82dc978212d917e82a99264706d3fe5a
+98	LORA/.git/objects/4e/a4568e82dc978212d917e82a99264706d3fe5a
+98	LORA/.git/objects/4e/a4568e82dc978212d917e82a99264706d3fe5a
+
+100	LORA/.git/objects/bd/b1f76532e625f45c8db8a912069f28a6c96486
+100	LORA/.git/objects/bd/b1f76532e625f45c8db8a912069f28a6c96486
+100	LORA/.git/objects/bd/b1f76532e625f45c8db8a912069f28a6c96486
+
+103	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/Release September 15	 2023 auto-release · adafruit-Adafruit_CircuitPython_Bundle.url
+103	LORA/TODO/Release September 15	 2023 auto-release · adafruit-Adafruit_CircuitPython_Bundle.url
+
+109	LORA/.git/objects/20/3794eae5eaf208091418696da0a47a9fbac21a
+109	LORA/.git/objects/20/3794eae5eaf208091418696da0a47a9fbac21a
+109	LORA/.git/objects/20/3794eae5eaf208091418696da0a47a9fbac21a
+
+109	LORA/.git/objects/a4/ddfdb54fb2978f55e63650f83e2da551ac270e
+109	LORA/.git/objects/a4/ddfdb54fb2978f55e63650f83e2da551ac270e
+109	LORA/.git/objects/a4/ddfdb54fb2978f55e63650f83e2da551ac270e
+
+110	LORA/.git/objects/81/0b8e69bebabe8691860cfe28770293e24f4b42
+110	LORA/.git/objects/81/0b8e69bebabe8691860cfe28770293e24f4b42
+110	LORA/.git/objects/81/0b8e69bebabe8691860cfe28770293e24f4b42
+
+110	LORA/.git/objects/04/2d366828c4461ad5536560a2c1697f25502a46
+110	LORA/.git/objects/04/2d366828c4461ad5536560a2c1697f25502a46
+110	LORA/.git/objects/04/2d366828c4461ad5536560a2c1697f25502a46
+
+113	LORA/.git/objects/f8/43a3230fbccf1f33ac4ec90e9a8d7000bc7355
+113	LORA/.git/objects/f8/43a3230fbccf1f33ac4ec90e9a8d7000bc7355
+113	LORA/.git/objects/f8/43a3230fbccf1f33ac4ec90e9a8d7000bc7355
+
+114	LORA/.git/objects/4d/7532cced816bbfd8b4a3060ddb09de52d10793
+114	LORA/.git/objects/4d/7532cced816bbfd8b4a3060ddb09de52d10793
+114	LORA/.git/objects/4d/7532cced816bbfd8b4a3060ddb09de52d10793
+
+116	LORA/.git/objects/bc/42012cfc2c77e9ea69a351ee72ba1550fb6d71
+116	LORA/.git/objects/bc/42012cfc2c77e9ea69a351ee72ba1550fb6d71
+116	LORA/.git/objects/bc/42012cfc2c77e9ea69a351ee72ba1550fb6d71
+
+122	LORA/.git/objects/40/6c4ff9abcbb9a6e375c55f83951edd41b4b00e
+122	LORA/.git/objects/40/6c4ff9abcbb9a6e375c55f83951edd41b4b00e
+122	LORA/.git/objects/40/6c4ff9abcbb9a6e375c55f83951edd41b4b00e
+
+125	LORA/.git/objects/b8/c92007a221759340e3dbbd239e766e92816074
+125	LORA/.git/objects/b8/c92007a221759340e3dbbd239e766e92816074
+125	LORA/.git/objects/b8/c92007a221759340e3dbbd239e766e92816074
+
+125	LORA/.git/objects/8f/25ef4608c36a83b26d3579ef5b4364a2416dc4
+125	LORA/.git/objects/8f/25ef4608c36a83b26d3579ef5b4364a2416dc4
+125	LORA/.git/objects/8f/25ef4608c36a83b26d3579ef5b4364a2416dc4
+
+140	LORA/.git/objects/de/3da39e35217105c9135160e2a2070aba98e24a
+140	LORA/.git/objects/de/3da39e35217105c9135160e2a2070aba98e24a
+140	LORA/.git/objects/de/3da39e35217105c9135160e2a2070aba98e24a
+
+140	LORA/.git/logs/refs/remotes/origin/2023-06-30_levitt
+140	LORA/.git/logs/refs/remotes/origin/2023-06-30_levitt
+140	LORA/.git/logs/refs/remotes/origin/2023-06-30_levitt
+
+145	LORA/.git/objects/6e/939c09c7f4077e58471512c94831bdf4b34bfd
+145	LORA/.git/objects/6e/939c09c7f4077e58471512c94831bdf4b34bfd
+145	LORA/.git/objects/6e/939c09c7f4077e58471512c94831bdf4b34bfd
+
+146	LORA/.git/objects/db/d42cab2c0effd529bbbcf27a2a5474054cb2b5
+146	LORA/.git/objects/db/d42cab2c0effd529bbbcf27a2a5474054cb2b5
+146	LORA/.git/objects/db/d42cab2c0effd529bbbcf27a2a5474054cb2b5
+
+146	LORA/.git/objects/4e/3ac16c057e931c3967dac7aa7bacd6ec576b89
+146	LORA/.git/objects/4e/3ac16c057e931c3967dac7aa7bacd6ec576b89
+146	LORA/.git/objects/4e/3ac16c057e931c3967dac7aa7bacd6ec576b89
+
+155	LORA/111mew/CircuitPython_hinv_HIDE/boot.py
+155	LORA/111mew/boot.py_
+
+157	LORA/.git/objects/8d/3b56fdcaddbee111e33cd64316454ad155ab41
+157	LORA/.git/objects/8d/3b56fdcaddbee111e33cd64316454ad155ab41
+157	LORA/.git/objects/8d/3b56fdcaddbee111e33cd64316454ad155ab41
+
+158	LORA/.git/objects/6c/3af1d00a718a367d64b284254bd78ebeafc420
+158	LORA/.git/objects/6c/3af1d00a718a367d64b284254bd78ebeafc420
+158	LORA/.git/objects/6c/3af1d00a718a367d64b284254bd78ebeafc420
+
+159	LORA/TODO/NEW0922/misc/dust/i2c_scan.txt
+159	LORA/TODO/NEW0922/misc/i2c_scan.txt
+
+161	LORA/.git/objects/d3/7a559ed08a407aa3630b50afcd20a2d1e90d25
+161	LORA/.git/objects/d3/7a559ed08a407aa3630b50afcd20a2d1e90d25
+161	LORA/.git/objects/d3/7a559ed08a407aa3630b50afcd20a2d1e90d25
+
+161	LORA/.git/objects/92/ecaab4625d8a4996113edeafbd1e778673db81
+161	LORA/.git/objects/92/ecaab4625d8a4996113edeafbd1e778673db81
+161	LORA/.git/objects/92/ecaab4625d8a4996113edeafbd1e778673db81
+
+163	LORA/.git/objects/6d/e9b83d5c25052896db09a616fcaba21e287433
+163	LORA/.git/objects/6d/e9b83d5c25052896db09a616fcaba21e287433
+163	LORA/.git/objects/6d/e9b83d5c25052896db09a616fcaba21e287433
+
+164	LORA/.git/objects/6c/42cbf6d55ca9d246a872a4b395beb72822b325
+164	LORA/.git/objects/6c/42cbf6d55ca9d246a872a4b395beb72822b325
+164	LORA/.git/objects/6c/42cbf6d55ca9d246a872a4b395beb72822b325
+
+165	LORA/.git/objects/32/2d380aaf5149d5734282166390b5c6a7c724d0
+165	LORA/.git/objects/32/2d380aaf5149d5734282166390b5c6a7c724d0
+165	LORA/.git/objects/32/2d380aaf5149d5734282166390b5c6a7c724d0
+
+166	LORA/.git/objects/be/5b70f60b05aed5fb008f833c3e8e51aeedba86
+166	LORA/.git/objects/be/5b70f60b05aed5fb008f833c3e8e51aeedba86
+166	LORA/.git/objects/be/5b70f60b05aed5fb008f833c3e8e51aeedba86
+
+171	LORA/.git/objects/77/100d29019366a41b3facccd7df0ecd9cfbf2e1
+171	LORA/.git/objects/77/100d29019366a41b3facccd7df0ecd9cfbf2e1
+171	LORA/.git/objects/77/100d29019366a41b3facccd7df0ecd9cfbf2e1
+
+171	LORA/.git/logs/refs/heads/main
+171	LORA/.git/logs/refs/heads/main
+171	LORA/.git/logs/refs/heads/main
+
+173	LORA/.git/objects/cb/816dd2b515537f3b2d665cd6249d2e4c7111fc
+173	LORA/.git/objects/cb/816dd2b515537f3b2d665cd6249d2e4c7111fc
+173	LORA/.git/objects/cb/816dd2b515537f3b2d665cd6249d2e4c7111fc
+
+179	LORA/.git/objects/1d/6d1e7a9cee5d406af13143d625c0dca211fabb
+179	LORA/.git/objects/1d/6d1e7a9cee5d406af13143d625c0dca211fabb
+179	LORA/.git/objects/1d/6d1e7a9cee5d406af13143d625c0dca211fabb
+
+181	LORA/.git/objects/fc/5c630fb01236af3ff0fc567fe80b71d3cc4dd7
+181	LORA/.git/objects/fc/5c630fb01236af3ff0fc567fe80b71d3cc4dd7
+181	LORA/.git/objects/fc/5c630fb01236af3ff0fc567fe80b71d3cc4dd7
+
+184	LORA/.git/objects/93/e9f9bae1dc94b0e184c446bd6dc5bb60dcfc8a
+184	LORA/.git/objects/93/e9f9bae1dc94b0e184c446bd6dc5bb60dcfc8a
+184	LORA/.git/objects/93/e9f9bae1dc94b0e184c446bd6dc5bb60dcfc8a
+
+189	LORA/.git/hooks/post-update.sample
+189	LORA/.git/hooks/post-update.sample
+189	LORA/.git/hooks/post-update.sample
+
+190	LORA/.git/objects/6c/d559357bfdbf6ff3b5e350db6ead13e115c8f5
+190	LORA/.git/objects/6c/d559357bfdbf6ff3b5e350db6ead13e115c8f5
+190	LORA/.git/objects/6c/d559357bfdbf6ff3b5e350db6ead13e115c8f5
+
+191	LORA/.git/packed-refs
+191	LORA/.git/packed-refs
+191	LORA/.git/packed-refs
+
+198	LORA/.git/objects/7f/1d42d6ef9d442b0f12fd2242d1474fa88e28ee
+198	LORA/.git/objects/7f/1d42d6ef9d442b0f12fd2242d1474fa88e28ee
+198	LORA/.git/objects/7f/1d42d6ef9d442b0f12fd2242d1474fa88e28ee
+
+198	LORA/.git/objects/6f/137579eb2360350e9145070285e620742d2cca
+198	LORA/.git/objects/6f/137579eb2360350e9145070285e620742d2cca
+198	LORA/.git/objects/6f/137579eb2360350e9145070285e620742d2cca
+
+201	LORA/.git/objects/b6/8b5167d694514671c29573efd00354e7e7a13d
+201	LORA/.git/objects/b6/8b5167d694514671c29573efd00354e7e7a13d
+201	LORA/.git/objects/b6/8b5167d694514671c29573efd00354e7e7a13d
+
+204	LORA/.git/objects/2d/aa3e43899071c8a68b4ba3de3a7f1ce2745a6b
+204	LORA/.git/objects/2d/aa3e43899071c8a68b4ba3de3a7f1ce2745a6b
+204	LORA/.git/objects/2d/aa3e43899071c8a68b4ba3de3a7f1ce2745a6b
+
+205	LORA/.git/objects/de/2c91f9325bb50da9b4e16dfe07641286eca313
+205	LORA/.git/objects/de/2c91f9325bb50da9b4e16dfe07641286eca313
+205	LORA/.git/objects/de/2c91f9325bb50da9b4e16dfe07641286eca313
+
+208	LORA/.gitignore
+208	LORA/TODO/NEW0922/misc/dust/.gitignore
+208	LORA/TODO/NEW0922/misc/rfid/.gitignore
+
+209	LORA/.git/objects/11/63d0e5b2889b1975287aee9eaa1e163fe1cab7
+209	LORA/.git/objects/11/63d0e5b2889b1975287aee9eaa1e163fe1cab7
+209	LORA/.git/objects/11/63d0e5b2889b1975287aee9eaa1e163fe1cab7
+
+210	LORA/.git/objects/3d/8b9e98cfb1c19e84e30b5e630459601028c0c3
+210	LORA/.git/objects/3d/8b9e98cfb1c19e84e30b5e630459601028c0c3
+210	LORA/.git/objects/3d/8b9e98cfb1c19e84e30b5e630459601028c0c3
+
+210	LORA/.git/objects/da/251976c9b2d40eed452f345a184f056ee070da
+210	LORA/.git/objects/da/251976c9b2d40eed452f345a184f056ee070da
+210	LORA/.git/objects/da/251976c9b2d40eed452f345a184f056ee070da
+
+212	LORA/.git/objects/a8/daafd7124721fac53ce474bf434e0b355c104a
+212	LORA/.git/objects/a8/daafd7124721fac53ce474bf434e0b355c104a
+212	LORA/.git/objects/a8/daafd7124721fac53ce474bf434e0b355c104a
+
+217	LORA/.git/objects/c2/4acf9228531a64cf7284a3e302efc9cb8e8193
+217	LORA/.git/objects/c2/4acf9228531a64cf7284a3e302efc9cb8e8193
+217	LORA/.git/objects/c2/4acf9228531a64cf7284a3e302efc9cb8e8193
+
+222	LORA/.git/objects/da/d6fcb584c844948211266f13880fa1bfe0f4e8
+222	LORA/.git/objects/da/d6fcb584c844948211266f13880fa1bfe0f4e8
+222	LORA/.git/objects/da/d6fcb584c844948211266f13880fa1bfe0f4e8
+
+224	LORA/.git/objects/81/d09236d6cc7f4b7aaf9573bf1858f9387ccfe0
+224	LORA/.git/objects/81/d09236d6cc7f4b7aaf9573bf1858f9387ccfe0
+224	LORA/.git/objects/81/d09236d6cc7f4b7aaf9573bf1858f9387ccfe0
+
+225	LORA/.git/objects/5b/5eabfbae72c0bdaad3d27de152ab29c66166fc
+225	LORA/.git/objects/5b/5eabfbae72c0bdaad3d27de152ab29c66166fc
+225	LORA/.git/objects/5b/5eabfbae72c0bdaad3d27de152ab29c66166fc
+
+229	LORA/TODO/NEW0922/misc/keybow/TODO/park_itsybitsy/OSH Park ~ (2).url
+229	LORA/TODO/NEW0922/misc/keybow/TODO/park_itsybitsy/OSH Park ~.url
+
+234	LORA/.git/objects/26/998e402beb076acbf08e94ea706e8b7a397d0e
+234	LORA/.git/objects/26/998e402beb076acbf08e94ea706e8b7a397d0e
+234	LORA/.git/objects/26/998e402beb076acbf08e94ea706e8b7a397d0e
+
+235	LORA/.git/objects/03/85d141cfef965d5dd0c5cfd3ea04dd895b36fb
+235	LORA/.git/objects/03/85d141cfef965d5dd0c5cfd3ea04dd895b36fb
+235	LORA/.git/objects/03/85d141cfef965d5dd0c5cfd3ea04dd895b36fb
+
+238	LORA/.git/objects/32/a3edd07a197a8619d4d19c62a05be53904bd95
+238	LORA/.git/objects/32/a3edd07a197a8619d4d19c62a05be53904bd95
+238	LORA/.git/objects/32/a3edd07a197a8619d4d19c62a05be53904bd95
+
+240	LORA/.git/info/exclude
+240	LORA/.git/info/exclude
+240	LORA/.git/info/exclude
+
+241	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/INDEX.HTM
+241	LORA/TODO/NEW0922/misc/keybow/_top/INDEX.HTM
+
+246	LORA/.git/objects/b0/fc49a02c7a58ca5201ad49edddb32720b54c80
+246	LORA/.git/objects/b0/fc49a02c7a58ca5201ad49edddb32720b54c80
+246	LORA/.git/objects/b0/fc49a02c7a58ca5201ad49edddb32720b54c80
+
+247	LORA/.git/objects/08/33f54c31603476b886e2eea99d578d420629b0
+247	LORA/.git/objects/08/33f54c31603476b886e2eea99d578d420629b0
+247	LORA/.git/objects/08/33f54c31603476b886e2eea99d578d420629b0
+
+253	LORA/.git/objects/8b/c3e05897195e7c091f3dd2c95c9489fbba76e6
+253	LORA/.git/objects/8b/c3e05897195e7c091f3dd2c95c9489fbba76e6
+253	LORA/.git/objects/8b/c3e05897195e7c091f3dd2c95c9489fbba76e6
+
+253	LORA/.git/objects/4c/3a8b4b04a71d19c59b481bdb9f7d8ccbd21de4
+253	LORA/.git/objects/4c/3a8b4b04a71d19c59b481bdb9f7d8ccbd21de4
+253	LORA/.git/objects/4c/3a8b4b04a71d19c59b481bdb9f7d8ccbd21de4
+
+260	LORA/.git/objects/20/321ac2019c91582991e1a9e2981ae13083cbb1
+260	LORA/.git/objects/20/321ac2019c91582991e1a9e2981ae13083cbb1
+260	LORA/.git/objects/20/321ac2019c91582991e1a9e2981ae13083cbb1
+
+262	LORA/.git/objects/76/d5735fbc77ee91bc60d06d2763406b59eae272
+262	LORA/.git/objects/76/d5735fbc77ee91bc60d06d2763406b59eae272
+262	LORA/.git/objects/76/d5735fbc77ee91bc60d06d2763406b59eae272
+
+262	LORA/.git/objects/b5/eb0110fcf1f8459246d0066825088fc6c0913a
+262	LORA/.git/objects/b5/eb0110fcf1f8459246d0066825088fc6c0913a
+262	LORA/.git/objects/b5/eb0110fcf1f8459246d0066825088fc6c0913a
+
+270	LORA/TODO/NEW0922/misc/keybow/.gitignore
+270	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/.gitignore
+
+272	LORA/.git/info/refs
+272	LORA/.git/info/refs
+272	LORA/.git/info/refs
+
+276	LORA/.git/objects/61/8edcabf0c692818004173ef8d3b000ce4f4d09
+276	LORA/.git/objects/61/8edcabf0c692818004173ef8d3b000ce4f4d09
+276	LORA/.git/objects/61/8edcabf0c692818004173ef8d3b000ce4f4d09
+
+278	LORA/.git/objects/b5/934a07d700adebafb34e509ded5caf6e0a8f91
+278	LORA/.git/objects/b5/934a07d700adebafb34e509ded5caf6e0a8f91
+278	LORA/.git/objects/b5/934a07d700adebafb34e509ded5caf6e0a8f91
+
+280	LORA/.git/logs/refs/remotes/origin/mew1
+280	LORA/.git/logs/refs/remotes/origin/mew1
+280	LORA/.git/logs/refs/remotes/origin/mew1
+
+283	LORA/.git/objects/7b/3398c97002fdb745dab2ddc33b92b19814a973
+283	LORA/.git/objects/7b/3398c97002fdb745dab2ddc33b92b19814a973
+283	LORA/.git/objects/7b/3398c97002fdb745dab2ddc33b92b19814a973
+
+285	LORA/.git/objects/0d/004d154598876abc75851043c2eedfaab8ce11
+285	LORA/.git/objects/0d/004d154598876abc75851043c2eedfaab8ce11
+285	LORA/.git/objects/0d/004d154598876abc75851043c2eedfaab8ce11
+
+294	LORA/TODO/NEW0922/misc/keybow/TODO/park_itsybitsy/ItsyBitsy Kewbow Mechanical Keypad (2).url
+294	LORA/TODO/NEW0922/misc/keybow/TODO/park_itsybitsy/ItsyBitsy Kewbow Mechanical Keypad.url
+
+305	LORA/.git/objects/e2/10e8f8f0f12303c6fe1bd4a447d9b5e628aa27
+305	LORA/.git/objects/e2/10e8f8f0f12303c6fe1bd4a447d9b5e628aa27
+305	LORA/.git/objects/e2/10e8f8f0f12303c6fe1bd4a447d9b5e628aa27
+
+306	LORA/.git/logs/refs/heads/mew1
+306	LORA/.git/logs/refs/heads/mew1
+306	LORA/.git/logs/refs/heads/mew1
+
+330	LORA/.git/objects/74/a489e56feaa87d96630994eb52494175f88b58
+330	LORA/.git/objects/74/a489e56feaa87d96630994eb52494175f88b58
+330	LORA/.git/objects/74/a489e56feaa87d96630994eb52494175f88b58
+
+340	LORA/TODO/NEW0922/misc/GITDIR.txt
+340	LORA/TODO/NEW0922/misc/dust/GITDIR.txt
+
+341	LORA/.git/objects/d9/691776ec1b8cebac44599c42f1b2aae42bc9b2
+341	LORA/.git/objects/d9/691776ec1b8cebac44599c42f1b2aae42bc9b2
+341	LORA/.git/objects/d9/691776ec1b8cebac44599c42f1b2aae42bc9b2
+
+342	LORA/.git/objects/d4/f071bf080545ab5a079da0c039d5f1bac0b40b
+342	LORA/.git/objects/d4/f071bf080545ab5a079da0c039d5f1bac0b40b
+342	LORA/.git/objects/d4/f071bf080545ab5a079da0c039d5f1bac0b40b
+
+353	LORA/.git/objects/dd/2f72e1d6b7afb5a61b0633434ceb6a121a2607
+353	LORA/.git/objects/dd/2f72e1d6b7afb5a61b0633434ceb6a121a2607
+353	LORA/.git/objects/dd/2f72e1d6b7afb5a61b0633434ceb6a121a2607
+
+376	LORA/.git/objects/02/58e162eb7d56fb97f68f77f72b1215e2f4d63c
+376	LORA/.git/objects/02/58e162eb7d56fb97f68f77f72b1215e2f4d63c
+376	LORA/.git/objects/02/58e162eb7d56fb97f68f77f72b1215e2f4d63c
+
+378	LORA/.git/objects/53/287f30b2488d79603fb69e528b7b7d7776071c
+378	LORA/.git/objects/53/287f30b2488d79603fb69e528b7b7d7776071c
+378	LORA/.git/objects/53/287f30b2488d79603fb69e528b7b7d7776071c
+
+378	LORA/.git/objects/1f/6ec655228c3e34c42a2fa28843624b740cfc22
+378	LORA/.git/objects/1f/6ec655228c3e34c42a2fa28843624b740cfc22
+378	LORA/.git/objects/1f/6ec655228c3e34c42a2fa28843624b740cfc22
+
+383	LORA/.git/objects/c3/d78f89e73b54148679a6fe7da952bd77958c16
+383	LORA/.git/objects/c3/d78f89e73b54148679a6fe7da952bd77958c16
+383	LORA/.git/objects/c3/d78f89e73b54148679a6fe7da952bd77958c16
+
+392	LORA/.git/objects/88/df071ae23c6980874febeeb64618031a147656
+392	LORA/.git/objects/88/df071ae23c6980874febeeb64618031a147656
+392	LORA/.git/objects/88/df071ae23c6980874febeeb64618031a147656
+
+410	LORA/.git/objects/9b/4acae74b205be7e368a2932b4d69593adf4290
+410	LORA/.git/objects/9b/4acae74b205be7e368a2932b4d69593adf4290
+410	LORA/.git/objects/9b/4acae74b205be7e368a2932b4d69593adf4290
+
+416	LORA/.git/hooks/pre-merge-commit.sample
+416	LORA/.git/hooks/pre-merge-commit.sample
+416	LORA/.git/hooks/pre-merge-commit.sample
+
+422	LORA/.git/objects/99/5f7de71d3b153107d292eec310bcafd7f9b709
+422	LORA/.git/objects/99/5f7de71d3b153107d292eec310bcafd7f9b709
+422	LORA/.git/objects/99/5f7de71d3b153107d292eec310bcafd7f9b709
+
+424	LORA/.git/hooks/pre-applypatch.sample
+424	LORA/.git/hooks/pre-applypatch.sample
+424	LORA/.git/hooks/pre-applypatch.sample
+
+428	LORA/.git/FETCH_HEAD
+428	LORA/.git/FETCH_HEAD
+428	LORA/.git/FETCH_HEAD
+
+428	LORA/.git/objects/7a/01f795a45eb7030196a8649bcb899276c0ee5c
+428	LORA/.git/objects/7a/01f795a45eb7030196a8649bcb899276c0ee5c
+428	LORA/.git/objects/7a/01f795a45eb7030196a8649bcb899276c0ee5c
+
+429	LORA/.git/objects/f9/83731654146f3a0d5150d82026dae8f7e69814
+429	LORA/.git/objects/f9/83731654146f3a0d5150d82026dae8f7e69814
+429	LORA/.git/objects/f9/83731654146f3a0d5150d82026dae8f7e69814
+
+450	LORA/.git/logs/refs/remotes/origin/todo
+450	LORA/.git/logs/refs/remotes/origin/todo
+450	LORA/.git/logs/refs/remotes/origin/todo
+
+459	LORA/.git/objects/f3/6e3dc623352c35b13c2d8b65db5e159139deb0
+459	LORA/.git/objects/f3/6e3dc623352c35b13c2d8b65db5e159139deb0
+459	LORA/.git/objects/f3/6e3dc623352c35b13c2d8b65db5e159139deb0
+
+462	LORA/.git/config
+462	LORA/.git/config
+462	LORA/.git/config
+
+469	LORA/.git/objects/08/bbb39f4d0295cccf5e51844392e248f0105f1f
+469	LORA/.git/objects/08/bbb39f4d0295cccf5e51844392e248f0105f1f
+469	LORA/.git/objects/08/bbb39f4d0295cccf5e51844392e248f0105f1f
+
+477	LORA/.git/objects/f0/1dcedfa08d21aee38c649acaf657a140eab0a7
+477	LORA/.git/objects/f0/1dcedfa08d21aee38c649acaf657a140eab0a7
+477	LORA/.git/objects/f0/1dcedfa08d21aee38c649acaf657a140eab0a7
+
+478	LORA/.git/hooks/applypatch-msg.sample
+478	LORA/.git/hooks/applypatch-msg.sample
+478	LORA/.git/hooks/applypatch-msg.sample
+
+480	LORA/.git/logs/refs/remotes/origin/main
+480	LORA/.git/logs/refs/remotes/origin/main
+480	LORA/.git/logs/refs/remotes/origin/main
+
+490	LORA/.git/objects/36/3c8b4ad1c7c11bde6c3fcf6719e62ddd732b0a
+490	LORA/.git/objects/36/3c8b4ad1c7c11bde6c3fcf6719e62ddd732b0a
+490	LORA/.git/objects/36/3c8b4ad1c7c11bde6c3fcf6719e62ddd732b0a
+
+495	LORA/.git/objects/c8/099a1517ca4a4c2d771190779eddc535ddeb03
+495	LORA/.git/objects/c8/099a1517ca4a4c2d771190779eddc535ddeb03
+495	LORA/.git/objects/c8/099a1517ca4a4c2d771190779eddc535ddeb03
+
+495	LORA/.git/objects/7b/b5b26bc187962819eac3ae4c54b87f214dd2b6
+495	LORA/.git/objects/7b/b5b26bc187962819eac3ae4c54b87f214dd2b6
+495	LORA/.git/objects/7b/b5b26bc187962819eac3ae4c54b87f214dd2b6
+
+499	LORA/.git/objects/0e/20b876b8829fe26b4e8d5794cb83017ce67413
+499	LORA/.git/objects/0e/20b876b8829fe26b4e8d5794cb83017ce67413
+499	LORA/.git/objects/0e/20b876b8829fe26b4e8d5794cb83017ce67413
+
+505	LORA/.git/objects/1c/c15fa5efb7f0c3b4debfaeea177514ec6fc3e7
+505	LORA/.git/objects/1c/c15fa5efb7f0c3b4debfaeea177514ec6fc3e7
+505	LORA/.git/objects/1c/c15fa5efb7f0c3b4debfaeea177514ec6fc3e7
+
+509	LORA/.git/objects/4b/9a92ca62db6a9bb6d6f656bcc018f8ee4b7a6f
+509	LORA/.git/objects/4b/9a92ca62db6a9bb6d6f656bcc018f8ee4b7a6f
+509	LORA/.git/objects/4b/9a92ca62db6a9bb6d6f656bcc018f8ee4b7a6f
+
+515	LORA/.git/objects/6f/ecb4d2268a4dc429964d68af4e7cb3c044842f
+515	LORA/.git/objects/6f/ecb4d2268a4dc429964d68af4e7cb3c044842f
+515	LORA/.git/objects/6f/ecb4d2268a4dc429964d68af4e7cb3c044842f
+
+529	LORA/.git/objects/92/f9d0d05c45d9cae34f968510a13f5436cc6762
+529	LORA/.git/objects/92/f9d0d05c45d9cae34f968510a13f5436cc6762
+529	LORA/.git/objects/92/f9d0d05c45d9cae34f968510a13f5436cc6762
+
+533	LORA/.git/objects/7e/cf5f73448cb67566298f93f4bed47131874e47
+533	LORA/.git/objects/7e/cf5f73448cb67566298f93f4bed47131874e47
+533	LORA/.git/objects/7e/cf5f73448cb67566298f93f4bed47131874e47
+
+537	LORA/.git/objects/a3/e6a81d982e3a77427a0c65bb22d20d85bbca7b
+537	LORA/.git/objects/a3/e6a81d982e3a77427a0c65bb22d20d85bbca7b
+537	LORA/.git/objects/a3/e6a81d982e3a77427a0c65bb22d20d85bbca7b
+
+544	LORA/.git/hooks/pre-receive.sample
+544	LORA/.git/hooks/pre-receive.sample
+544	LORA/.git/hooks/pre-receive.sample
+
+556	LORA/.git/objects/e1/1ecac97cbac7f462d0b5a102732565fb3b5225
+556	LORA/.git/objects/e1/1ecac97cbac7f462d0b5a102732565fb3b5225
+556	LORA/.git/objects/e1/1ecac97cbac7f462d0b5a102732565fb3b5225
+
+558	LORA/.git/objects/f7/1b01bb99a0b8ae7fe6a518429e1150cd92b8ae
+558	LORA/.git/objects/f7/1b01bb99a0b8ae7fe6a518429e1150cd92b8ae
+558	LORA/.git/objects/f7/1b01bb99a0b8ae7fe6a518429e1150cd92b8ae
+
+580	LORA/.git/objects/5e/ff78dcb129738045cf751e40f66e6d81608dbf
+580	LORA/.git/objects/5e/ff78dcb129738045cf751e40f66e6d81608dbf
+580	LORA/.git/objects/5e/ff78dcb129738045cf751e40f66e6d81608dbf
+
+582	LORA/.git/objects/66/4e5b0d9ff6b68ab9a696afaf94af6f74f665f4
+582	LORA/.git/objects/66/4e5b0d9ff6b68ab9a696afaf94af6f74f665f4
+582	LORA/.git/objects/66/4e5b0d9ff6b68ab9a696afaf94af6f74f665f4
+
+582	LORA/.gitattributes
+582	LORA/TODO/NEW0922/misc/dust/.gitattributes
+582	LORA/TODO/NEW0922/misc/keybow/.gitattributes
+582	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/.gitattributes
+582	LORA/TODO/NEW0922/misc/rfid/.gitattributes
+
+588	LORA/.git/objects/24/78fa6c1e8d6a569961b680e8ce8a125d288feb
+588	LORA/.git/objects/24/78fa6c1e8d6a569961b680e8ce8a125d288feb
+588	LORA/.git/objects/24/78fa6c1e8d6a569961b680e8ce8a125d288feb
+
+591	LORA/.git/objects/c9/75631961c3f4cb398700f89c546814ca9cd4ec
+591	LORA/.git/objects/c9/75631961c3f4cb398700f89c546814ca9cd4ec
+591	LORA/.git/objects/c9/75631961c3f4cb398700f89c546814ca9cd4ec
+
+603	LORA/.git/objects/f5/f8706ca6b7d3b64ad5c6a35deb1d2ef22d53b8
+603	LORA/.git/objects/f5/f8706ca6b7d3b64ad5c6a35deb1d2ef22d53b8
+603	LORA/.git/objects/f5/f8706ca6b7d3b64ad5c6a35deb1d2ef22d53b8
+
+607	LORA/.git/objects/dd/4644eed91eae221203791c63ad2bdd43b240ce
+607	LORA/.git/objects/dd/4644eed91eae221203791c63ad2bdd43b240ce
+607	LORA/.git/objects/dd/4644eed91eae221203791c63ad2bdd43b240ce
+
+608	LORA/.git/objects/39/0acb6815fc639ec02bcff1f1495fa665a73c85
+608	LORA/.git/objects/39/0acb6815fc639ec02bcff1f1495fa665a73c85
+608	LORA/.git/objects/39/0acb6815fc639ec02bcff1f1495fa665a73c85
+
+609	LORA/.git/objects/33/5a375a7dd168259b296fdf2c41f0372fd5b585
+609	LORA/.git/objects/33/5a375a7dd168259b296fdf2c41f0372fd5b585
+609	LORA/.git/objects/33/5a375a7dd168259b296fdf2c41f0372fd5b585
+
+622	LORA/.git/objects/0a/ba7d3f36e922c418e4cdb96b8110b8ff5b05a4
+622	LORA/.git/objects/0a/ba7d3f36e922c418e4cdb96b8110b8ff5b05a4
+622	LORA/.git/objects/0a/ba7d3f36e922c418e4cdb96b8110b8ff5b05a4
+
+624	LORA/.git/objects/37/77d0b80da439510b5207c8cd4f416917421892
+624	LORA/.git/objects/37/77d0b80da439510b5207c8cd4f416917421892
+624	LORA/.git/objects/37/77d0b80da439510b5207c8cd4f416917421892
+
+624	LORA/.git/objects/7a/f1de52248fa9fe11fd3849ac7282e6027bd2c4
+624	LORA/.git/objects/7a/f1de52248fa9fe11fd3849ac7282e6027bd2c4
+624	LORA/.git/objects/7a/f1de52248fa9fe11fd3849ac7282e6027bd2c4
+
+642	LORA/.git/objects/cf/97a6bd513f6d3ce0ec563d12659157b82dced1
+642	LORA/.git/objects/cf/97a6bd513f6d3ce0ec563d12659157b82dced1
+642	LORA/.git/objects/cf/97a6bd513f6d3ce0ec563d12659157b82dced1
+
+653	LORA/.git/objects/aa/cffeef576ec702a74313f1b27431fb152b3faf
+653	LORA/.git/objects/aa/cffeef576ec702a74313f1b27431fb152b3faf
+653	LORA/.git/objects/aa/cffeef576ec702a74313f1b27431fb152b3faf
+
+655	LORA/.git/objects/81/5733a8ad992771d921f1a4770d5281645c134d
+655	LORA/.git/objects/81/5733a8ad992771d921f1a4770d5281645c134d
+655	LORA/.git/objects/81/5733a8ad992771d921f1a4770d5281645c134d
+
+660	LORA/.git/objects/fb/e75b8a1a400a90e8e3a4a4572c32755cfe9069
+660	LORA/.git/objects/fb/e75b8a1a400a90e8e3a4a4572c32755cfe9069
+660	LORA/.git/objects/fb/e75b8a1a400a90e8e3a4a4572c32755cfe9069
+
+665	LORA/.git/objects/d6/641877977f1971aef053d7939948c7943323b7
+665	LORA/.git/objects/d6/641877977f1971aef053d7939948c7943323b7
+665	LORA/.git/objects/d6/641877977f1971aef053d7939948c7943323b7
+
+667	LORA/.git/objects/9a/64c354617932ae4d03c92d2762ff2a487fcf88
+667	LORA/.git/objects/9a/64c354617932ae4d03c92d2762ff2a487fcf88
+667	LORA/.git/objects/9a/64c354617932ae4d03c92d2762ff2a487fcf88
+
+675	LORA/.git/objects/15/b8f1c9f200681663b4ae60b8099897d11e5559
+675	LORA/.git/objects/15/b8f1c9f200681663b4ae60b8099897d11e5559
+675	LORA/.git/objects/15/b8f1c9f200681663b4ae60b8099897d11e5559
+
+677	LORA/.git/objects/44/fb1d67083fd724ac37e4c9cbf130c69246883a
+677	LORA/.git/objects/44/fb1d67083fd724ac37e4c9cbf130c69246883a
+677	LORA/.git/objects/44/fb1d67083fd724ac37e4c9cbf130c69246883a
+
+686	LORA/.git/logs/refs/heads/todo
+686	LORA/.git/logs/refs/heads/todo
+686	LORA/.git/logs/refs/heads/todo
+
+686	LORA/.git/objects/e3/96d0f42482876e05081e39da230f5222ad4457
+686	LORA/.git/objects/e3/96d0f42482876e05081e39da230f5222ad4457
+686	LORA/.git/objects/e3/96d0f42482876e05081e39da230f5222ad4457
+
+688	LORA/.git/objects/71/ee6d0e94438a7974e8fd49f4c6b8424176eee5
+688	LORA/.git/objects/71/ee6d0e94438a7974e8fd49f4c6b8424176eee5
+688	LORA/.git/objects/71/ee6d0e94438a7974e8fd49f4c6b8424176eee5
+
+697	LORA/.git/objects/dc/ba0f17ebb260011783afb4f44400673c605d67
+697	LORA/.git/objects/dc/ba0f17ebb260011783afb4f44400673c605d67
+697	LORA/.git/objects/dc/ba0f17ebb260011783afb4f44400673c605d67
+
+705	LORA/TODO/NEW0922/misc/dust/i2c_scan.py
+705	LORA/TODO/NEW0922/misc/i2c_scan.py
+
+711	LORA/.git/objects/bb/48c4575b22566a63e0ad8ef7142eb8851a1829
+711	LORA/.git/objects/bb/48c4575b22566a63e0ad8ef7142eb8851a1829
+711	LORA/.git/objects/bb/48c4575b22566a63e0ad8ef7142eb8851a1829
+
+716	LORA/.git/objects/ba/236bb77d61d9dac92c34d321e7ba4fa438a260
+716	LORA/.git/objects/ba/236bb77d61d9dac92c34d321e7ba4fa438a260
+716	LORA/.git/objects/ba/236bb77d61d9dac92c34d321e7ba4fa438a260
+
+721	LORA/.git/objects/87/d5ce1363a9146e2bcecf8e6adcbd87c93abbb4
+721	LORA/.git/objects/87/d5ce1363a9146e2bcecf8e6adcbd87c93abbb4
+721	LORA/.git/objects/87/d5ce1363a9146e2bcecf8e6adcbd87c93abbb4
+
+731	LORA/.git/objects/bb/05d6c136264e12f782c9fbf496277e835961be
+731	LORA/.git/objects/bb/05d6c136264e12f782c9fbf496277e835961be
+731	LORA/.git/objects/bb/05d6c136264e12f782c9fbf496277e835961be
+
+746	LORA/.git/objects/a9/3aa708e1ee93cb90e48f45dc762c9c719ef4b9
+746	LORA/.git/objects/a9/3aa708e1ee93cb90e48f45dc762c9c719ef4b9
+746	LORA/.git/objects/a9/3aa708e1ee93cb90e48f45dc762c9c719ef4b9
+
+748	LORA/.git/objects/33/cc8cccae7493512cc7e978eca8c7d04fbb1d12
+748	LORA/.git/objects/33/cc8cccae7493512cc7e978eca8c7d04fbb1d12
+748	LORA/.git/objects/33/cc8cccae7493512cc7e978eca8c7d04fbb1d12
+
+761	LORA/.git/objects/c2/4d7ad07cca27fefc5c8a3954c1f9d5c826dec4
+761	LORA/.git/objects/c2/4d7ad07cca27fefc5c8a3954c1f9d5c826dec4
+761	LORA/.git/objects/c2/4d7ad07cca27fefc5c8a3954c1f9d5c826dec4
+
+780	LORA/.git/objects/01/99ca58bbd4c9b080e973b1b559dd04d349b925
+780	LORA/.git/objects/01/99ca58bbd4c9b080e973b1b559dd04d349b925
+780	LORA/.git/objects/01/99ca58bbd4c9b080e973b1b559dd04d349b925
+
+781	LORA/.git/objects/2e/96a083f5c6429007b01fcb65cd1ac14d206cd4
+781	LORA/.git/objects/2e/96a083f5c6429007b01fcb65cd1ac14d206cd4
+781	LORA/.git/objects/2e/96a083f5c6429007b01fcb65cd1ac14d206cd4
+
+782	LORA/.git/objects/b0/184759dd31a4b30350a8e180cbd15282f89a72
+782	LORA/.git/objects/b0/184759dd31a4b30350a8e180cbd15282f89a72
+782	LORA/.git/objects/b0/184759dd31a4b30350a8e180cbd15282f89a72
+
+785	LORA/.git/objects/d3/42f336b20d663ea6cf4af4946599975344ce65
+785	LORA/.git/objects/d3/42f336b20d663ea6cf4af4946599975344ce65
+785	LORA/.git/objects/d3/42f336b20d663ea6cf4af4946599975344ce65
+
+786	LORA/TODO/NEW0922/examples/ntp_set_rtc.py
+786	LORA/TODO/NEW0922/misc/dust/ntp_set_rtc.py
+786	LORA/TODO/NEW0922/misc/ntp_set_rtc.py
+
+801	LORA/.git/objects/62/241c631892ab3f9695bcea6d4517a4504ec325
+801	LORA/.git/objects/62/241c631892ab3f9695bcea6d4517a4504ec325
+801	LORA/.git/objects/62/241c631892ab3f9695bcea6d4517a4504ec325
+
+818	LORA/.git/objects/48/f60e967d09dc78da71bd41dab7f14be69f99c9
+818	LORA/.git/objects/48/f60e967d09dc78da71bd41dab7f14be69f99c9
+818	LORA/.git/objects/48/f60e967d09dc78da71bd41dab7f14be69f99c9
+
+836	LORA/.git/objects/78/7e28f8431ff4295742a694fd9c2b36b7042b4f
+836	LORA/.git/objects/78/7e28f8431ff4295742a694fd9c2b36b7042b4f
+836	LORA/.git/objects/78/7e28f8431ff4295742a694fd9c2b36b7042b4f
+
+837	LORA/.git/objects/cd/0a27c6a6cebb9387a72bafa6c3a04ebbb2465e
+837	LORA/.git/objects/cd/0a27c6a6cebb9387a72bafa6c3a04ebbb2465e
+837	LORA/.git/objects/cd/0a27c6a6cebb9387a72bafa6c3a04ebbb2465e
+
+852	LORA/.git/objects/26/04985443cb6ea64c48b87fa3613f0b3407a6b5
+852	LORA/.git/objects/26/04985443cb6ea64c48b87fa3613f0b3407a6b5
+852	LORA/.git/objects/26/04985443cb6ea64c48b87fa3613f0b3407a6b5
+
+852	LORA/.git/objects/61/f0e53475640b499472a45f1bde731169350792
+852	LORA/.git/objects/61/f0e53475640b499472a45f1bde731169350792
+852	LORA/.git/objects/61/f0e53475640b499472a45f1bde731169350792
+
+855	LORA/.git/objects/f7/398c207ac74a3fa7546e7ea2302d4d7f770d86
+855	LORA/.git/objects/f7/398c207ac74a3fa7546e7ea2302d4d7f770d86
+855	LORA/.git/objects/f7/398c207ac74a3fa7546e7ea2302d4d7f770d86
+
+870	LORA/.git/objects/3a/36f31dcf12883aed80755ed4ec5f65ea7e293d
+870	LORA/.git/objects/3a/36f31dcf12883aed80755ed4ec5f65ea7e293d
+870	LORA/.git/objects/3a/36f31dcf12883aed80755ed4ec5f65ea7e293d
+
+879	LORA/.git/objects/96/519fafce6cea404544f628cb0c7865e874959e
+879	LORA/.git/objects/96/519fafce6cea404544f628cb0c7865e874959e
+879	LORA/.git/objects/96/519fafce6cea404544f628cb0c7865e874959e
+
+896	LORA/.git/hooks/commit-msg.sample
+896	LORA/.git/hooks/commit-msg.sample
+896	LORA/.git/hooks/commit-msg.sample
+
+904	LORA/.git/objects/79/7e50a1fd0f1331b8e03f124f1e181800ad4298
+904	LORA/.git/objects/79/7e50a1fd0f1331b8e03f124f1e181800ad4298
+904	LORA/.git/objects/79/7e50a1fd0f1331b8e03f124f1e181800ad4298
+
+928	LORA/.git/objects/4f/6d35dd6416bbfa340c56f7858f1804bc9c5a78
+928	LORA/.git/objects/4f/6d35dd6416bbfa340c56f7858f1804bc9c5a78
+928	LORA/.git/objects/4f/6d35dd6416bbfa340c56f7858f1804bc9c5a78
+
+928	LORA/.git/objects/a9/8f24962b256fa4eaf8b0d9cf5e1e222924ba8a
+928	LORA/.git/objects/a9/8f24962b256fa4eaf8b0d9cf5e1e222924ba8a
+928	LORA/.git/objects/a9/8f24962b256fa4eaf8b0d9cf5e1e222924ba8a
+
+955	LORA/.git/objects/a6/b29de207ab935d7f1dab0edce8db0e2b66b53d
+955	LORA/.git/objects/a6/b29de207ab935d7f1dab0edce8db0e2b66b53d
+955	LORA/.git/objects/a6/b29de207ab935d7f1dab0edce8db0e2b66b53d
+
+960	LORA/.git/objects/9a/39f53c269a11e0684483dd6f1e0cbe6bd66045
+960	LORA/.git/objects/9a/39f53c269a11e0684483dd6f1e0cbe6bd66045
+960	LORA/.git/objects/9a/39f53c269a11e0684483dd6f1e0cbe6bd66045
+
+961	LORA/.git/objects/d0/b7f5a54d00400d12344ed8e020f4c3b61a8805
+961	LORA/.git/objects/d0/b7f5a54d00400d12344ed8e020f4c3b61a8805
+961	LORA/.git/objects/d0/b7f5a54d00400d12344ed8e020f4c3b61a8805
+
+992	LORA/.git/objects/f4/d987df298361562a8df662a1ffeb5ac50f5506
+992	LORA/.git/objects/f4/d987df298361562a8df662a1ffeb5ac50f5506
+992	LORA/.git/objects/f4/d987df298361562a8df662a1ffeb5ac50f5506
+
+997	LORA/.git/objects/43/08525e0dd2dfa08cb21ff0af99919b322ea701
+997	LORA/.git/objects/43/08525e0dd2dfa08cb21ff0af99919b322ea701
+997	LORA/.git/objects/43/08525e0dd2dfa08cb21ff0af99919b322ea701
+
+1007	LORA/TODO/NEW0922/lib/adafruit_pn532/uart.mpy
+1007	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_pn532/uart.mpy
+
+1010	LORA/.git/objects/4f/1f2636f75a0721aa584c2b17c9af9b9a85505e
+1010	LORA/.git/objects/4f/1f2636f75a0721aa584c2b17c9af9b9a85505e
+1010	LORA/.git/objects/4f/1f2636f75a0721aa584c2b17c9af9b9a85505e
+
+1024	LORA/.git/objects/8a/5c6318459ce9f7cb95c397ca4b4d3f7c6178e2
+1024	LORA/.git/objects/8a/5c6318459ce9f7cb95c397ca4b4d3f7c6178e2
+1024	LORA/.git/objects/8a/5c6318459ce9f7cb95c397ca4b4d3f7c6178e2
+
+1040	LORA/.git/objects/03/06c592594a80faad42273d8e113e1027439166
+1040	LORA/.git/objects/03/06c592594a80faad42273d8e113e1027439166
+1040	LORA/.git/objects/03/06c592594a80faad42273d8e113e1027439166
+
+1040	LORA/.git/objects/9d/b578eed0ccfe5ff7e5e8695599b6b5053cf9e8
+1040	LORA/.git/objects/9d/b578eed0ccfe5ff7e5e8695599b6b5053cf9e8
+1040	LORA/.git/objects/9d/b578eed0ccfe5ff7e5e8695599b6b5053cf9e8
+
+1040	LORA/.git/objects/27/39b228811de9d3fe2a7cf623f7d260b22722b6
+1040	LORA/.git/objects/27/39b228811de9d3fe2a7cf623f7d260b22722b6
+1040	LORA/.git/objects/27/39b228811de9d3fe2a7cf623f7d260b22722b6
+
+1053	LORA/.git/objects/ba/c76679d09eb69ab84de472a58ef12722fd4120
+1053	LORA/.git/objects/ba/c76679d09eb69ab84de472a58ef12722fd4120
+1053	LORA/.git/objects/ba/c76679d09eb69ab84de472a58ef12722fd4120
+
+1054	LORA/.git/objects/05/cd4a6c4535f03e7575e8c32fe592bf45c370de
+1054	LORA/.git/objects/05/cd4a6c4535f03e7575e8c32fe592bf45c370de
+1054	LORA/.git/objects/05/cd4a6c4535f03e7575e8c32fe592bf45c370de
+
+1055	LORA/.git/objects/f6/bd1fa04541c58a99afa3d2c0cb1b6d0748fca3
+1055	LORA/.git/objects/f6/bd1fa04541c58a99afa3d2c0cb1b6d0748fca3
+1055	LORA/.git/objects/f6/bd1fa04541c58a99afa3d2c0cb1b6d0748fca3
+
+1055	LORA/.git/objects/43/c01b6cf273e23d0a7767c225dcb5616bfab0a5
+1055	LORA/.git/objects/43/c01b6cf273e23d0a7767c225dcb5616bfab0a5
+1055	LORA/.git/objects/43/c01b6cf273e23d0a7767c225dcb5616bfab0a5
+
+1074	LORA/TODO/NEW0922/misc/keybow/LICENSE
+1074	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/LICENSE
+
+1085	LORA/LICENSE
+1085	LORA/LICENSE
+
+1094	LORA/.git/objects/6d/dc173c821c27abee5c0ab852712d1bd8f47b6b
+1094	LORA/.git/objects/6d/dc173c821c27abee5c0ab852712d1bd8f47b6b
+1094	LORA/.git/objects/6d/dc173c821c27abee5c0ab852712d1bd8f47b6b
+
+1107	LORA/TODO/NEW0922/misc/boot (2).py
+1107	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/boot.py
+1107	LORA/TODO/NEW0922/misc/keybow/boot.py
+
+1133	LORA/.git/objects/9e/4a2ae1f1ca9c766fd00d8c1f667b6385ec2615
+1133	LORA/.git/objects/9e/4a2ae1f1ca9c766fd00d8c1f667b6385ec2615
+1133	LORA/.git/objects/9e/4a2ae1f1ca9c766fd00d8c1f667b6385ec2615
+
+1138	LORA/.git/objects/f2/419d694fd2cb7dfc118ee7409977f4221d3002
+1138	LORA/.git/objects/f2/419d694fd2cb7dfc118ee7409977f4221d3002
+1138	LORA/.git/objects/f2/419d694fd2cb7dfc118ee7409977f4221d3002
+
+1142	LORA/.git/objects/af/6e9549be83ed8a4e173004a3543f4604734749
+1142	LORA/.git/objects/af/6e9549be83ed8a4e173004a3543f4604734749
+1142	LORA/.git/objects/af/6e9549be83ed8a4e173004a3543f4604734749
+
+1161	LORA/.git/objects/97/55d870578052f38428f70a5787dde443d9575a
+1161	LORA/.git/objects/97/55d870578052f38428f70a5787dde443d9575a
+1161	LORA/.git/objects/97/55d870578052f38428f70a5787dde443d9575a
+
+1162	LORA/.git/objects/ed/19b99370e76f297017ba8f50610bd866e34c64
+1162	LORA/.git/objects/ed/19b99370e76f297017ba8f50610bd866e34c64
+1162	LORA/.git/objects/ed/19b99370e76f297017ba8f50610bd866e34c64
+
+1163	LORA/.git/objects/35/eea95c1863ff8100d984a7b1410dab4afbf53b
+1163	LORA/.git/objects/35/eea95c1863ff8100d984a7b1410dab4afbf53b
+1163	LORA/.git/objects/35/eea95c1863ff8100d984a7b1410dab4afbf53b
+
+1164	LORA/.git/objects/1e/9a8dc414466d9ac31353ee9b95fcaf39c20f68
+1164	LORA/.git/objects/1e/9a8dc414466d9ac31353ee9b95fcaf39c20f68
+1164	LORA/.git/objects/1e/9a8dc414466d9ac31353ee9b95fcaf39c20f68
+
+1193	LORA/TODO/NEW0922/lib/adafruit_pn532/i2c.mpy
+1193	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_pn532/i2c.mpy
+
+1242	LORA/.git/objects/d5/141b0554aceb1a7ed0fb7e7fdf92f004b436e9
+1242	LORA/.git/objects/d5/141b0554aceb1a7ed0fb7e7fdf92f004b436e9
+1242	LORA/.git/objects/d5/141b0554aceb1a7ed0fb7e7fdf92f004b436e9
+
+1264	LORA/.git/objects/36/a7923f5cc98118ba17c594529922ca7f03489b
+1264	LORA/.git/objects/36/a7923f5cc98118ba17c594529922ca7f03489b
+1264	LORA/.git/objects/36/a7923f5cc98118ba17c594529922ca7f03489b
+
+1281	LORA/.git/objects/82/333e71a7976c13af961f28fcdc595926b0c043
+1281	LORA/.git/objects/82/333e71a7976c13af961f28fcdc595926b0c043
+1281	LORA/.git/objects/82/333e71a7976c13af961f28fcdc595926b0c043
+
+1294	LORA/.git/objects/cb/638da1e9a46d5018d548c19c5328a3807db9f8
+1294	LORA/.git/objects/cb/638da1e9a46d5018d548c19c5328a3807db9f8
+1294	LORA/.git/objects/cb/638da1e9a46d5018d548c19c5328a3807db9f8
+
+1297	LORA/TODO/NEW0922/examples/rfm9x_header.py
+1297	LORA/rfm9x_header.py
+
+1300	LORA/.git/objects/31/67fde709eaafdb72486e2f7d10be447a4d00a9
+1300	LORA/.git/objects/31/67fde709eaafdb72486e2f7d10be447a4d00a9
+1300	LORA/.git/objects/31/67fde709eaafdb72486e2f7d10be447a4d00a9
+
+1303	LORA/.git/objects/fd/ee032e4872207457cd29f7b3b2431ad43d1737
+1303	LORA/.git/objects/fd/ee032e4872207457cd29f7b3b2431ad43d1737
+1303	LORA/.git/objects/fd/ee032e4872207457cd29f7b3b2431ad43d1737
+
+1347	LORA/TODO/NEW0922/lib/adafruit_pn532/spi.mpy
+1347	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_pn532/spi.mpy
+
+1374	LORA/.git/hooks/pre-push.sample
+1374	LORA/.git/hooks/pre-push.sample
+1374	LORA/.git/hooks/pre-push.sample
+
+1386	LORA/.git/objects/5e/18da5866f905b9499b84d979b77e4124e7d4ba
+1386	LORA/.git/objects/5e/18da5866f905b9499b84d979b77e4124e7d4ba
+1386	LORA/.git/objects/5e/18da5866f905b9499b84d979b77e4124e7d4ba
+
+1395	LORA/.git/objects/9a/3acdae829d222ba0f4529062adb32c1b953121
+1395	LORA/.git/objects/9a/3acdae829d222ba0f4529062adb32c1b953121
+1395	LORA/.git/objects/9a/3acdae829d222ba0f4529062adb32c1b953121
+
+1404	LORA/.git/objects/c5/80ad656c4d4ccbf52e6083b0c67e4c0f4f492f
+1404	LORA/.git/objects/c5/80ad656c4d4ccbf52e6083b0c67e4c0f4f492f
+1404	LORA/.git/objects/c5/80ad656c4d4ccbf52e6083b0c67e4c0f4f492f
+
+1438	LORA/TODO/NEW0922/lib/adafruit_dotstar.mpy
+1438	LORA/TODO/NEW0922/misc/keybow/_top/lib/adafruit_dotstar.mpy
+1438	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_dotstar.mpy
+
+1468	LORA/TODO/NEW0922/misc/rfid/code.py
+1468	LORA/TODO/NEW0922/misc/rfid/test3/test3.py
+
+1477	LORA/.git/objects/40/be9bb3b8f92cbc760264683bad9d7e72c96167
+1477	LORA/.git/objects/40/be9bb3b8f92cbc760264683bad9d7e72c96167
+1477	LORA/.git/objects/40/be9bb3b8f92cbc760264683bad9d7e72c96167
+
+1492	LORA/.git/hooks/prepare-commit-msg.sample
+1492	LORA/.git/hooks/prepare-commit-msg.sample
+1492	LORA/.git/hooks/prepare-commit-msg.sample
+
+1531	LORA/.git/objects/25/59bcebc44c7f1a92fe7c55bad88ae0695dd00d
+1531	LORA/.git/objects/25/59bcebc44c7f1a92fe7c55bad88ae0695dd00d
+1531	LORA/.git/objects/25/59bcebc44c7f1a92fe7c55bad88ae0695dd00d
+
+1564	LORA/.git/objects/95/d6fadcbdc089f807dc73454120578d1506bbcf
+1564	LORA/.git/objects/95/d6fadcbdc089f807dc73454120578d1506bbcf
+1564	LORA/.git/objects/95/d6fadcbdc089f807dc73454120578d1506bbcf
+
+1566	LORA/.git/objects/26/3af305119642851d71d49308c8c713444f56ca
+1566	LORA/.git/objects/26/3af305119642851d71d49308c8c713444f56ca
+1566	LORA/.git/objects/26/3af305119642851d71d49308c8c713444f56ca
+
+1567	LORA/.git/objects/21/efdfcc3d6c0c109f4d86f7193f3058e6d24ff2
+1567	LORA/.git/objects/21/efdfcc3d6c0c109f4d86f7193f3058e6d24ff2
+1567	LORA/.git/objects/21/efdfcc3d6c0c109f4d86f7193f3058e6d24ff2
+
+1592	LORA/.git/objects/7f/400fdd1766c51da3f93d6e1a25e0594f0e30d0
+1592	LORA/.git/objects/7f/400fdd1766c51da3f93d6e1a25e0594f0e30d0
+1592	LORA/.git/objects/7f/400fdd1766c51da3f93d6e1a25e0594f0e30d0
+
+1623	LORA/.git/objects/49/eb57709fc1a8314232a1bb45ac39ed036fe001
+1623	LORA/.git/objects/49/eb57709fc1a8314232a1bb45ac39ed036fe001
+1623	LORA/.git/objects/49/eb57709fc1a8314232a1bb45ac39ed036fe001
+
+1643	LORA/.git/hooks/pre-commit.sample
+1643	LORA/.git/hooks/pre-commit.sample
+1643	LORA/.git/hooks/pre-commit.sample
+
+1648	LORA/.git/objects/eb/2d3911a35ae471de7de1b57dfff90b8e3a1346
+1648	LORA/.git/objects/eb/2d3911a35ae471de7de1b57dfff90b8e3a1346
+1648	LORA/.git/objects/eb/2d3911a35ae471de7de1b57dfff90b8e3a1346
+
+1822	LORA/TODO/NEW0922/misc/dust/ntp_ds1307.py
+1822	LORA/TODO/NEW0922/misc/ntp_ds1307.py
+
+1864	LORA/TODO/NEW0922/misc/keybow/README.md
+1864	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/README.md
+
+1885	LORA/.git/objects/35/07274f988e08e0d10151fcd1a764fc606b5b9d
+1885	LORA/.git/objects/35/07274f988e08e0d10151fcd1a764fc606b5b9d
+1885	LORA/.git/objects/35/07274f988e08e0d10151fcd1a764fc606b5b9d
+
+1890	LORA/TODO/NEW0922/examples/pn532_simpletest.py
+1890	LORA/TODO/NEW0922/misc/rfid/examples/pn532_simpletest.py
+
+1893	LORA/TODO/NEW0922/examples/rfm9x_node2_ack.py
+1893	LORA/rfm9x_node2_ack.py
+
+1933	LORA/.git/objects/39/27b3a254b255470a7faed03f5ce32d92815889
+1933	LORA/.git/objects/39/27b3a254b255470a7faed03f5ce32d92815889
+1933	LORA/.git/objects/39/27b3a254b255470a7faed03f5ce32d92815889
+
+1976	LORA/TODO/NEW0922/examples/rfm9x_transmit.py
+1976	LORA/rfm9x_transmit.py
+
+1985	LORA/TODO/NEW0922/examples/rfm9x_node1.py
+1985	LORA/rfm9x_node1.py
+
+2003	LORA/TODO/NEW0922/examples/pn532_low_power.py
+2003	LORA/TODO/NEW0922/misc/rfid/examples/pn532_low_power.py
+
+2034	LORA/.git/objects/97/2be098e29f23d791e017a1195ed939a9359c24
+2034	LORA/.git/objects/97/2be098e29f23d791e017a1195ed939a9359c24
+2034	LORA/.git/objects/97/2be098e29f23d791e017a1195ed939a9359c24
+
+2085	LORA/TODO/NEW0922/examples/rfm9x_node2.py
+2085	LORA/rfm9x_node2.py
+
+2098	LORA/.git/objects/0e/028e47527d5542e83274010dccaac530e2f7fe
+2098	LORA/.git/objects/0e/028e47527d5542e83274010dccaac530e2f7fe
+2098	LORA/.git/objects/0e/028e47527d5542e83274010dccaac530e2f7fe
+
+2148	LORA/.git/objects/0b/faaa68a7d5261c25097d534b85eb4d19b1528f
+2148	LORA/.git/objects/0b/faaa68a7d5261c25097d534b85eb4d19b1528f
+2148	LORA/.git/objects/0b/faaa68a7d5261c25097d534b85eb4d19b1528f
+
+2232	LORA/TODO/NEW0922/examples/rfm9x_node1_ack.py
+2232	LORA/rfm9x_node1_ack.py
+
+2253	LORA/.git/objects/82/3601360f28d640043d7e4dc7dd296a8e4ebd09
+2253	LORA/.git/objects/82/3601360f28d640043d7e4dc7dd296a8e4ebd09
+2253	LORA/.git/objects/82/3601360f28d640043d7e4dc7dd296a8e4ebd09
+
+2269	LORA/TODO/NEW0922/examples/pn532_readwrite_ntag2xx.py
+2269	LORA/TODO/NEW0922/misc/rfid/examples/pn532_readwrite_ntag2xx.py
+
+2322	LORA/TODO/NEW0922/examples/pn532_simplelisten.py
+2322	LORA/TODO/NEW0922/misc/rfid/examples/pn532_simplelisten.py
+
+2552	LORA/.git/objects/info/commit-graph
+2552	LORA/.git/objects/info/commit-graph
+2552	LORA/.git/objects/info/commit-graph
+
+2570	LORA/TODO/NEW0922/misc/dust/hardware_notes.txt
+2570	LORA/TODO/NEW0922/misc/hardware_notes.txt
+
+2581	LORA/TODO/NEW0922/examples/pn532_readwrite_mifare.py
+2581	LORA/TODO/NEW0922/misc/rfid/examples/pn532_readwrite_mifare.py
+
+2783	LORA/.git/hooks/push-to-checkout.sample
+2783	LORA/.git/hooks/push-to-checkout.sample
+2783	LORA/.git/hooks/push-to-checkout.sample
+
+2837	LORA/TODO/NEW0922/examples/rfm9x_rpi_simpletest.py
+2837	LORA/rfm9x_rpi_simpletest.py
+
+2931	LORA/.git/objects/76/de9062f97786cf70e397da34f1e7b00b8fbb92
+2931	LORA/.git/objects/76/de9062f97786cf70e397da34f1e7b00b8fbb92
+2931	LORA/.git/objects/76/de9062f97786cf70e397da34f1e7b00b8fbb92
+
+3042	LORA/.git/objects/44/b536458b5cb9b4bc85c020006752f24c0e3865
+3042	LORA/.git/objects/44/b536458b5cb9b4bc85c020006752f24c0e3865
+3042	LORA/.git/objects/44/b536458b5cb9b4bc85c020006752f24c0e3865
+
+3105	LORA/TODO/NEW0922/examples/rfm9x_rpi_interrupt.py
+3105	LORA/rfm9x_rpi_interrupt.py
+
+3205	LORA/TODO/NEW0922/examples/rfm9x_simpletest.py
+3205	LORA/rfm9x_simpletest.py
+
+3324	LORA/.git/objects/5a/bb0ca9f1f11fcd15d784092cb4c4e3eab68907
+3324	LORA/.git/objects/5a/bb0ca9f1f11fcd15d784092cb4c4e3eab68907
+3324	LORA/.git/objects/5a/bb0ca9f1f11fcd15d784092cb4c4e3eab68907
+
+3553	LORA/.git/objects/6b/6bf2493e6ccdcdbb968fac981a79e338fb6f91
+3553	LORA/.git/objects/6b/6bf2493e6ccdcdbb968fac981a79e338fb6f91
+3553	LORA/.git/objects/6b/6bf2493e6ccdcdbb968fac981a79e338fb6f91
+
+3555	LORA/TODO/NEW0922/examples/rfm9x_node1_bonnet.py
+3555	LORA/rfm9x_node1_bonnet.py
+
+3650	LORA/.git/hooks/update.sample
+3650	LORA/.git/hooks/update.sample
+3650	LORA/.git/hooks/update.sample
+
+3772	LORA/TODO/NEW0922/misc/keybow/_top/mew_keybow_pico/keybow_pico_cew_editkeys.py
+3772	LORA/TODO/NEW0922/misc/keybow/keybow_pico_cew_editkeys.py
+3772	LORA/TODO/NEW0922/misc/keybow_pico_cew_editkeys.py
+
+4009	LORA/.git/objects/04/13f99ad98356b3eb7067b1d0a88bc34e48612b
+4009	LORA/.git/objects/04/13f99ad98356b3eb7067b1d0a88bc34e48612b
+4009	LORA/.git/objects/04/13f99ad98356b3eb7067b1d0a88bc34e48612b
+
+4366	LORA/.git/objects/1a/f999660265a16a7ee88a6b72c77ffef5ee3245
+4366	LORA/.git/objects/1a/f999660265a16a7ee88a6b72c77ffef5ee3245
+4366	LORA/.git/objects/1a/f999660265a16a7ee88a6b72c77ffef5ee3245
+
+4672	LORA/111mew/CircuitPython_hinv_HIDE/hinv.py
+4672	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/hinv.py
+4672	LORA/TODO/NEW0922/misc/hinv.py
+4672	LORA/TODO/NEW0922/misc/hinv/hinv.py
+
+4726	LORA/.git/hooks/fsmonitor-watchman.sample
+4726	LORA/.git/hooks/fsmonitor-watchman.sample
+4726	LORA/.git/hooks/fsmonitor-watchman.sample
+
+4898	LORA/.git/hooks/pre-rebase.sample
+4898	LORA/.git/hooks/pre-rebase.sample
+4898	LORA/.git/hooks/pre-rebase.sample
+
+4964	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.idx
+4964	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.idx
+4964	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.idx
+
+5055	LORA/TODO/NEW0922/lib/adafruit_pn532/adafruit_pn532.mpy
+5055	LORA/TODO/NEW0922/misc/rfid/lib/adafruit_pn532/adafruit_pn532.mpy
+
+5853	LORA/TODO/NEW0922/bootpy.txt
+5853	LORA/TODO/NEW0922/misc/rfid/bootpy.txt
+
+6932	LORA/TODO/NEW0922/lib/adafruit_rfm9x.mpy
+6932	LORA/lib/adafruit_rfm9x.mpy
+
+8285	LORA/TODO/NEW0922/misc/dust/main.py
+8285	LORA/TODO/NEW0922/misc/main.py
+
+10340	LORA/.git/objects/59/d3503a966945c405b295470fc49c6c3340abaf
+10340	LORA/.git/objects/59/d3503a966945c405b295470fc49c6c3340abaf
+10340	LORA/.git/objects/59/d3503a966945c405b295470fc49c6c3340abaf
+
+10454	LORA/.git/objects/b1/f7688a570ae11779481a475904ddec6bd5db17
+10454	LORA/.git/objects/b1/f7688a570ae11779481a475904ddec6bd5db17
+10454	LORA/.git/objects/b1/f7688a570ae11779481a475904ddec6bd5db17
+
+13263	LORA/.git/objects/15/fe0a67233b86bf44716cb90a42c5ac4dcf73c1
+13263	LORA/.git/objects/15/fe0a67233b86bf44716cb90a42c5ac4dcf73c1
+13263	LORA/.git/objects/15/fe0a67233b86bf44716cb90a42c5ac4dcf73c1
+
+25405	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/VERSIONS (2).txt
+25405	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/VERSIONS.txt
+25405	LORA/TODO/NEW0922/misc/keybow/_top/lib/VERSIONS.txt
+
+28228	LORA/.git/objects/67/dd8d511e49638a2fcbdd7039aa67478867acb6
+28228	LORA/.git/objects/67/dd8d511e49638a2fcbdd7039aa67478867acb6
+28228	LORA/.git/objects/67/dd8d511e49638a2fcbdd7039aa67478867acb6
+
+37776	LORA/.git/objects/55/4bddbda6d77baa2c90fec26b951ac37c28348c
+37776	LORA/.git/objects/55/4bddbda6d77baa2c90fec26b951ac37c28348c
+37776	LORA/.git/objects/55/4bddbda6d77baa2c90fec26b951ac37c28348c
+
+42738	LORA/.git/objects/1c/9bf8421cc7c10a558a4145558fa7ced1644f68
+42738	LORA/.git/objects/1c/9bf8421cc7c10a558a4145558fa7ced1644f68
+42738	LORA/.git/objects/1c/9bf8421cc7c10a558a4145558fa7ced1644f68
+
+42960	LORA/z1_main.txt
+42960	LORA/z1_main.txt
+
+50416	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.pack
+50416	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.pack
+50416	LORA/.git/objects/pack/pack-32e70722da2ffede1655148061bad96a6df16c82.pack
+
+50500	LORA/.git/objects/9f/1ac7e1aa442623566f9a30d2b33ec7fd6b2d98
+50500	LORA/.git/objects/9f/1ac7e1aa442623566f9a30d2b33ec7fd6b2d98
+50500	LORA/.git/objects/9f/1ac7e1aa442623566f9a30d2b33ec7fd6b2d98
+
+64164	LORA/.git/objects/a6/ee300534af5da0ea2ca6e17df53a80a55b5f65
+64164	LORA/.git/objects/a6/ee300534af5da0ea2ca6e17df53a80a55b5f65
+64164	LORA/.git/objects/a6/ee300534af5da0ea2ca6e17df53a80a55b5f65
+
+77248	LORA/.git/objects/01/4f80bb5fb98b5df822260a37229378d311b25c
+77248	LORA/.git/objects/01/4f80bb5fb98b5df822260a37229378d311b25c
+77248	LORA/.git/objects/01/4f80bb5fb98b5df822260a37229378d311b25c
+
+77425	LORA/.git/objects/1d/e306bbb09952957e0462900e8a35b2ac480df1
+77425	LORA/.git/objects/1d/e306bbb09952957e0462900e8a35b2ac480df1
+77425	LORA/.git/objects/1d/e306bbb09952957e0462900e8a35b2ac480df1
+
+93623	LORA/TODO/NEW0922/CIRCUITPY_verbatim_from_picow/adafruit-circuitpython-bundle-20230915.json
+93623	LORA/TODO/NEW0922/misc/keybow/_top/lib/adafruit-circuitpython-bundle-20230915.json
+93623	LORA/TODO/adafruit-circuitpython-bundle-20230915.json
+
+134109	LORA/.git/objects/48/9127ba7c4498c2ae4333a30fe55fea027e9843
+134109	LORA/.git/objects/48/9127ba7c4498c2ae4333a30fe55fea027e9843
+134109	LORA/.git/objects/48/9127ba7c4498c2ae4333a30fe55fea027e9843
+
+177212	LORA/.git/objects/ad/e2faefd7a307eb45ebe6bf483c661c8b70420f
+177212	LORA/.git/objects/ad/e2faefd7a307eb45ebe6bf483c661c8b70420f
+177212	LORA/.git/objects/ad/e2faefd7a307eb45ebe6bf483c661c8b70420f
+
+212076	LORA/.git/objects/aa/a550c3d553b10fde551513aaf9555ed1c68211
+212076	LORA/.git/objects/aa/a550c3d553b10fde551513aaf9555ed1c68211
+212076	LORA/.git/objects/aa/a550c3d553b10fde551513aaf9555ed1c68211
+
+586819	LORA/.git/objects/02/caff30b4e3a9798f085a7ab08faf664b928b49
+586819	LORA/.git/objects/02/caff30b4e3a9798f085a7ab08faf664b928b49
+586819	LORA/.git/objects/02/caff30b4e3a9798f085a7ab08faf664b928b49
+
+664775	LORA/.git/objects/c1/c91d761298c464223df486f63f789d6e7f6ebe
+664775	LORA/.git/objects/c1/c91d761298c464223df486f63f789d6e7f6ebe
+664775	LORA/.git/objects/c1/c91d761298c464223df486f63f789d6e7f6ebe
+
+741613	LORA/.git/objects/90/a9915beef61e88084c52f955de8617037a1ef4
+741613	LORA/.git/objects/90/a9915beef61e88084c52f955de8617037a1ef4
+741613	LORA/.git/objects/90/a9915beef61e88084c52f955de8617037a1ef4
+
+744470	LORA/.git/objects/ee/8ed75461cb72b91e66cc4f981505a1143eca45
+744470	LORA/.git/objects/ee/8ed75461cb72b91e66cc4f981505a1143eca45
+744470	LORA/.git/objects/ee/8ed75461cb72b91e66cc4f981505a1143eca45
+
+846373	LORA/.git/objects/e7/e71a068db8d8097809c334cd7f998d08c84f7d
+846373	LORA/.git/objects/e7/e71a068db8d8097809c334cd7f998d08c84f7d
+846373	LORA/.git/objects/e7/e71a068db8d8097809c334cd7f998d08c84f7d
+
+1039536	LORA/.git/objects/ac/1df9028b78337cc27f914b227a6fb58e3d0e14
+1039536	LORA/.git/objects/ac/1df9028b78337cc27f914b227a6fb58e3d0e14
+1039536	LORA/.git/objects/ac/1df9028b78337cc27f914b227a6fb58e3d0e14
+
