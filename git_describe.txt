@@ -1,0 +1,3 @@
+keybow_pico_v0.2.5.5-0-g003779e
+Sat Sep 16 02:05:29 MDT 2023
+git@github.com:itchy-o/lora_experiment.git
